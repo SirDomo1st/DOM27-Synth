@@ -4,3 +4,15 @@ author: "Domo"
 description: "A modular synthesiser"
 created_at: "2025-06-13"
 ---
+June 14th: Started my research
+I started to learn about analouge VCO's (voltage controlled oscialtors). I watched some youtube videos - here are some things I learnt:
+-The components that go into making a square wave and sawtooth wave oscilator
+-How electrical charge can move around a circuit to create pitch and noise
+
+I have decided I am going to start with a VCO module with 2 types of tone, pusle and saw.
+
+Here are some videos I watched:
+-[This 4 part series on VCO's](https://www.youtube.com/watch?v=QBatvo8bCa4)
+-[Understanding Voltage Controlled Oscillators](https://www.youtube.com/watch?v=kuo6Q0LuHNM&t=285s)
+Total time spent: 1h
+---
