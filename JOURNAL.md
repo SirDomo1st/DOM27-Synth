@@ -18,7 +18,9 @@ Total time spent: 1h
 ---
 June 14th: Designed first mock of circuit diagram
 ![image](https://github.com/user-attachments/assets/d49c6159-f723-4ca2-8aff-d6fe6d3145dd)
-
+-This is cicuit diagram for my VCO
+-I also learnt about different types of components that go into making a circuit
 
 Total time spent: 2h
+---
 
