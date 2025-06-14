@@ -16,3 +16,9 @@ Here are some videos I watched:
 -[Understanding Voltage Controlled Oscillators](https://www.youtube.com/watch?v=kuo6Q0LuHNM&t=285s)
 Total time spent: 1h
 ---
+June 14th: Designed first mock of circuit diagram
+![image](https://github.com/user-attachments/assets/d49c6159-f723-4ca2-8aff-d6fe6d3145dd)
+
+
+Total time spent: 2h
+
