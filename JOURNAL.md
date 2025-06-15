@@ -10,6 +10,10 @@ I started to learn about analouge VCO's (voltage controlled oscialtors). I watch
 -How electrical charge can move around a circuit to create pitch and noise
 
 I have decided I am going to start with a VCO module with 2 types of tone, pusle and saw.
+I am also keeping in mind other modules I will want to make in the future, such as:
+-VCA
+-Envelope
+-LFO
 
 Here are some videos I watched:
 -[This 4 part series on VCO's](https://www.youtube.com/watch?v=QBatvo8bCa4)
