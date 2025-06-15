@@ -14,6 +14,7 @@ I am also keeping in mind other modules I will want to make in the future, such 
 -VCA
 -Envelope
 -LFO
+-Squencer (maybe?)
 
 Here are some videos I watched:
 -[This 4 part series on VCO's](https://www.youtube.com/watch?v=QBatvo8bCa4)
