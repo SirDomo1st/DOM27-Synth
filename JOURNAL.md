@@ -16,6 +16,7 @@ I am also keeping in mind other modules I may want to make in the future, such a
 -LFO
 -Squencer (maybe?)
 -VCF
+-Mixer
 
 Here are some videos I watched:
 -[This 4 part series on VCO's](https://www.youtube.com/watch?v=QBatvo8bCa4)
