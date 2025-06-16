@@ -30,4 +30,14 @@ June 14th: Designed first mock of circuit diagram
 
 Total time spent: 2h
 ---
+June 16th: Added PMW modifcation and started to think about power
+I found a circuit design for Pulse Width Modulation. I think this would be a good edition to my first VCO so I added it
+![image](https://github.com/user-attachments/assets/996bc7d3-2a11-4343-816b-0eca4343fc95)
+I also did some research into how to power my module and I added this 
+![image](https://github.com/user-attachments/assets/7a879222-d634-4c3f-b445-59367e5db896)
+
+Total time spent: 2h
+---
+
+
 
