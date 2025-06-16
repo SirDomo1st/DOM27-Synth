@@ -36,7 +36,7 @@ I found a circuit design for Pulse Width Modulation. I think this would be a goo
 I also did some research into how to power my module and I added this 
 ![image](https://github.com/user-attachments/assets/7a879222-d634-4c3f-b445-59367e5db896)
 
-Total time spent: 2h
+Total time spent: 1h
 ---
 
 
