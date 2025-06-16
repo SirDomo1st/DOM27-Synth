@@ -35,6 +35,7 @@ I found a circuit design for Pulse Width Modulation. I think this would be a goo
 ![image](https://github.com/user-attachments/assets/996bc7d3-2a11-4343-816b-0eca4343fc95)
 I also did some research into how to power my module and I added this 
 ![image](https://github.com/user-attachments/assets/7a879222-d634-4c3f-b445-59367e5db896)
+I also pick the name for my VCO - The "Klajdiscope"
 
 Total time spent: 1h
 ---
