@@ -39,6 +39,14 @@ I also pick the name for my VCO - The ✨"Klajdiscope"✨
 
 Total time spent: 1h
 ---
+June 18th: Figuring out layout of module
+![image](https://github.com/user-attachments/assets/b7e92c2a-2a81-420e-85cf-6ebfada003bd)
+I spent quite a significant amount of time working on where everything should go, so I can make it as useable and understandable as possible.
+I also spent some time figuring out what I actually need phyiscal inputs and potentiometers for on the module. I concluded that R3, R5, R7 & R9 do not need dials, as they have constant resistance
+
+Total time spent: 1h
+---
+
 
 
 
