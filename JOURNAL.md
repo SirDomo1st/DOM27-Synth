@@ -46,9 +46,7 @@ I also spent some time figuring out what I actually need phyiscal inputs and pot
 
 Total time spent: 1h
 ---
-1
 
-2
 
 
 
