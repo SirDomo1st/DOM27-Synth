@@ -58,6 +58,15 @@ Total time spent: 1h
 Next to do is the copper on the PCB
 
 ---
+June 22nd: Copper
+I had to create copper lines to connect each of my components on my PCB. I did a whole bunch of research and found somethings out. e.g: copper lines cant touch
+Doing this took a while as I kept on having to go back and undo things to make way for other things
+Eventually I got it down though, here is what it looks like 
+![image](https://github.com/user-attachments/assets/a552a5fd-6619-418c-bb1d-d92ab20af7c9)
+Time spent: 1h
+
+---
+
 
 
 
