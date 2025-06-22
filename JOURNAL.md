@@ -55,6 +55,8 @@ Here is a photo of my pcb:
 Total time spent: 1h
 ![image](https://github.com/user-attachments/assets/63b05e84-cbb9-4271-9207-5624a767d7f0)
 ![image](https://github.com/user-attachments/assets/1ac51430-a149-4c26-8193-a3dd4d0f86be)
+Next to do is the copper on the PCB
+
 ---
 
 
