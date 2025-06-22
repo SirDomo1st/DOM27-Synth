@@ -46,6 +46,21 @@ I also spent some time figuring out what I actually need phyiscal inputs and pot
 
 Total time spent: 1h
 ---
+June 21st: Footprints and Finalising layout
+The first thing I had to do was assign footprints for each component in my circuit, so that when they are placed on the PCB they have the right holes. Because this was my first time, this took me a fair while as I wanted to make sure that I was doing everything right.
+![image](https://github.com/user-attachments/assets/c6a2bb05-f537-4245-abf3-2664cd728ba4)
+After that, I copied the layout I had made previously by dragging the footprints around. This is what I was left with:
+![image](https://github.com/user-attachments/assets/9b2bbf0a-86d1-4d3c-ab3f-f8329e38811d)
+Here is a photo of my pcb:
+Total time spent: 1h
+![image](https://github.com/user-attachments/assets/63b05e84-cbb9-4271-9207-5624a767d7f0)
+![image](https://github.com/user-attachments/assets/1ac51430-a149-4c26-8193-a3dd4d0f86be)
+---
+
+
+
+
+
 
 
 
