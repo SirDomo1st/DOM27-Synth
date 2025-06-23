@@ -21,7 +21,7 @@ I am also keeping in mind other modules I may want to make in the future, such a
 Here are some videos I watched:
 -[This 4 part series on VCO's](https://www.youtube.com/watch?v=QBatvo8bCa4)
 -[Understanding Voltage Controlled Oscillators](https://www.youtube.com/watch?v=kuo6Q0LuHNM&t=285s)
-Total time spent: 1h
+Total time spent: 2h
 ---
 June 14th: Designed first mock of circuit diagram
 ![image](https://github.com/user-attachments/assets/d49c6159-f723-4ca2-8aff-d6fe6d3145dd)
@@ -37,7 +37,7 @@ I also did some research into how to power my module and I added this
 ![image](https://github.com/user-attachments/assets/7a879222-d634-4c3f-b445-59367e5db896)
 I also picked the name for my VCO - The ✨"Klajdiscope"✨
 
-Total time spent: 1h
+Total time spent: 2h
 ---
 June 18th: Figuring out layout of module
 ![image](https://github.com/user-attachments/assets/b7e92c2a-2a81-420e-85cf-6ebfada003bd)
