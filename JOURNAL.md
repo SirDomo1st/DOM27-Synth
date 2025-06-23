@@ -77,6 +77,8 @@ I also decided to add a bit of tolerance (+2/3mm) to ensure that everything fits
 ![image](https://github.com/user-attachments/assets/7a0a4bb6-21e0-4910-9c47-87ccc5542395)
 ![image](https://github.com/user-attachments/assets/4a2e5ed4-ccb7-43aa-a6e6-ab2dfbeac99a)
 
+With that, my first module (the VCO) is now complete. The next one I would like to make is an LFO (low frequency oscilator)
+During my research, I found that this was a very useful module to have in a modular synth system as it enables me to modulate parameters hands free and in time with a beat.
 
 Time spent: 1h
 
