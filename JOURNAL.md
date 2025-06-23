@@ -74,7 +74,9 @@ The first step to do this was to install 3D models for each of my components on 
 Next, I followed the outlines of the components on the board and also looked up the real world dimensions to create the correct size holes that I need.
 I also decided to add a bit of tolerance (+2/3mm) to ensure that everything fits
 ![image](https://github.com/user-attachments/assets/672f69b0-8b03-4eea-83c2-2a46463bfcd4)
-![image](https://github.com/user-attachments/assets/4e4d0df2-183d-423d-b219-f7cd78267120)
+![image](https://github.com/user-attachments/assets/7a0a4bb6-21e0-4910-9c47-87ccc5542395)
+![image](https://github.com/user-attachments/assets/4a2e5ed4-ccb7-43aa-a6e6-ab2dfbeac99a)
+
 
 Time spent: 1h
 
