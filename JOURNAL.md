@@ -84,6 +84,13 @@ Time spent: 1h
 
 ---
 
+June 27th: VCF schematic
+On this day I created the schematic for my VCF (voltage controlled filter)
+![image](https://github.com/user-attachments/assets/2e5aa582-fb8e-484b-9dfa-d36b62a667ef)
+
+Time spent: 1h
+
+---
 
 
 
