@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/9d4f1a0a-c5e0-431b-b076-8c51b46655aa)---
 title: "DOM27 Synth"
 author: "Domo"
 description: "A modular synthesiser"
@@ -104,6 +104,14 @@ Time spent: 1h
 
 ---
 
+June 30th: Layout and copper
+I finished the layout of my pcb and connected all the components with copper
+![image](https://github.com/user-attachments/assets/e3ba3bc4-3049-4d9f-b145-38ff2fd38572)
+![image](https://github.com/user-attachments/assets/d68d10f7-11b3-46a7-838b-a035b5743d28)
+
+Time spent: 1h
+
+---
 
 
 
