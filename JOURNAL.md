@@ -96,7 +96,13 @@ Today I went to start work on my pcb layout, however i realised i had a ton of m
 ![image](https://github.com/user-attachments/assets/43550cd5-5f48-4f76-8b9e-b4322212abec)
 Time spent: 1h
 
+After that I started putting my pcb layout together but lo and behold, I had some more issues. As i had already spent alot of time fixing other stuff, I will come back to this.
+![image](https://github.com/user-attachments/assets/17317ec5-a379-4ef4-a58c-e8dcc8af6fc9)
+![image](https://github.com/user-attachments/assets/0452a510-21be-4fac-a60c-64ab2616fef7)
 
+Time spent: 1h
+
+---
 
 
 
