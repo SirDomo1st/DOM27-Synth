@@ -91,6 +91,11 @@ On this day I created the schematic for my VCF (voltage controlled filter)
 Time spent: 1h
 
 ---
+June 30th: Fixing all my errors!
+Today I went to start work on my pcb layout, however i realised i had a ton of mistakes. Loads of things were labeled and named incorrectly. After watching lots of youtube videos and asking about, I finally got it fixed!
+![image](https://github.com/user-attachments/assets/43550cd5-5f48-4f76-8b9e-b4322212abec)
+Time spent: 1h
+
 
 
 
