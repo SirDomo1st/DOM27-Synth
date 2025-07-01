@@ -124,7 +124,15 @@ Time spent 1h:
 
 
 ---
+July 1st: the VCA research
+As mentioned before, the next module I would like to create is a voltage controleld amplifier (VCA). There is a very common saying in moudlar sythnesis that goes "you can never have too many vca's". This is because they are immensely useful for shaping and modulating sounds.
+I started by deciding what features I would like on my VCA. I only really have 2 main requirments, 4 VCA's on 1 pannel and mixing section.
+I went to look online for some schematics I could reference but I came up short. The only schematics with my requirements I could find where too complicated for me to understand currently or contained componenets that were either too expensive or hard to get.
+However, with combining a single VCA, copying it 3 more times and adding a mixer (with the help of a friend) I was able to create a schematic I thought would work.
 
+Time spent: 0.5h
+
+---
 
 
 
