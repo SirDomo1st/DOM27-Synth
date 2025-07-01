@@ -133,6 +133,23 @@ However, with combining a single VCA, copying it 3 more times and adding a mixer
 Time spent: 0.5h
 
 ---
+July 1st: VCA Schematic
+Using my schematic from before I created the layout for the VCA. Here it is:
+![image](https://github.com/user-attachments/assets/0a258c5d-1647-4a41-ac91-52700ea4345b)
+It features 3 seperate VCA's and a mixer
+
+Time spent: 1h
+
+---
+July 1st: VCA pcb layout & copper
+I then took this into the PCB editor and started playing with the layout. This was actually quite challenging as it was very condensed and tough to make space for everything. In fact, initally by board had 4 VCA's however I had to strip one out to make space
+![image](https://github.com/user-attachments/assets/17ea8d05-8419-4981-8fb8-d81389ce541b)
+I then also routed all the copper
+
+Time spent: 1.5h
+---
+
+
 
 
 
