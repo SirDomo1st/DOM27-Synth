@@ -145,12 +145,21 @@ July 1st: VCA pcb layout & copper
 I then took this into the PCB editor and started playing with the layout. This was actually quite challenging as it was very condensed and tough to make space for everything. In fact, initally by board had 4 VCA's however I had to strip one out to make space
 ![image](https://github.com/user-attachments/assets/17ea8d05-8419-4981-8fb8-d81389ce541b)
 I then also routed all the copper
-
+![image](https://github.com/user-attachments/assets/ad847458-de10-4e7c-ba1a-b4ac7096e8ff)
 Time spent: 1.5h
+
+![image](https://github.com/user-attachments/assets/dfa9b1b4-0d58-4f22-a89d-f356f8575f23)
+
 ---
+July 1st: VCA CAD
+I exported the pcb and imported it into fusion 360 to design the pannel the same as before
+![image](https://github.com/user-attachments/assets/5aae53b6-a655-4084-8e0e-2947de679016)
 
+![image](https://github.com/user-attachments/assets/a2c2a5ec-e466-4972-944f-afbb21a15545)
 
+Time spent: 1h
 
+---
 
 
 
