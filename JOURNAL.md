@@ -112,9 +112,18 @@ I finished the layout of my pcb and connected all the components with copper
 Time spent: 1h
 
 ---
+July 1st: VCF pannel 3D model
+I created the pannel for the VCF the same way I did for the VCO. I made sure to add tolorances and also holes for the screws, for when I screw it into the case
+![image](https://github.com/user-attachments/assets/76fb4acc-8a32-44d2-a2e7-c9344e52c77d)
+![image](https://github.com/user-attachments/assets/1d49c4d1-bdc0-46a0-9520-3d040d235b84)
+With that, the DS-20 VCF is now complete. 
+I also realised that in my 45hp case, only 44hp would be filled up. This meant I also had to model a 1hp pannel. This was alright though as I can use it for decoration.
+![image](https://github.com/user-attachments/assets/b9497c11-6c12-426c-b99b-d2225f9fc122)
+The penultimate module I would like to make is a VCA (voltage controlled amplifier).
+Time spent 1h:
 
 
-
+---
 
 
 
