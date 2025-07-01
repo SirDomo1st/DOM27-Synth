@@ -157,6 +157,10 @@ I exported the pcb and imported it into fusion 360 to design the pannel the same
 
 ![image](https://github.com/user-attachments/assets/a2c2a5ec-e466-4972-944f-afbb21a15545)
 
+Here is how everything looks at this point in time
+![image](https://github.com/user-attachments/assets/fdbeaecc-6d6a-4830-bc71-7f15493b87f7)
+![image](https://github.com/user-attachments/assets/9e932dd7-9ce7-4441-9222-1ae4354b657f)
+
 Time spent: 1h
 
 ---
