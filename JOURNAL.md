@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/88ae0072-33de-4893-8a7f-1dc00b200ceb)---
+---
 title: "DOM27 Synth"
 author: "Domo"
 description: "A modular synthesiser"
