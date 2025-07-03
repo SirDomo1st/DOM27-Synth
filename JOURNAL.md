@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/88ae0072-33de-4893-8a7f-1dc00b200ceb)---
 title: "DOM27 Synth"
 author: "Domo"
 description: "A modular synthesiser"
@@ -165,6 +165,27 @@ Time spent: 1h
 
 ---
 
+July 3rd: Whole LFO pannel
+For my last pannel I wanted to create an LFO (low frequency oscilator). This would allow me to controla parameters on other modules hands free.
+As this is my last pannel I was able to create this fairly quickly.
+I started with 30 minutes of research. I found that it would be ideal for me to have a dual LFO module for more functionality
 
+I then spent 1 hour putting this into KiCad, assinging footprints, creating the layout of my PCB and then exporting.
+![image](https://github.com/user-attachments/assets/bc9ac73b-d914-4b49-8d4c-e9885f8d9154)
+![image](https://github.com/user-attachments/assets/f92d9c23-5b41-47bc-ae18-f24cd84ba02e)
+![image](https://github.com/user-attachments/assets/2152b6cd-293f-416d-a318-cd66f270a97b)
+
+I then exported this into Fusion 360 and moddled the pannel:
+![image](https://github.com/user-attachments/assets/e5b97682-e178-4e84-a69b-d73b891dfa11)
+![image](https://github.com/user-attachments/assets/df5eff9c-3938-4081-ad8a-008495a78e97)
+
+With that, the basis for each pannel is done. Here is how it looks:
+![image](https://github.com/user-attachments/assets/e4060516-d10b-4067-9f2c-0aa665365627)
+![image](https://github.com/user-attachments/assets/f254d1b4-f3b2-459f-bbd7-6f27ecbac8b3)
+
+Time spent: 1.5h
+
+Now that all my pannels are complete, I now need to go back on my old work and optimise it to use less components to save money, I need to label the value of each component to make soldering much easier and I will also need to verify with friend and on forums that my schematics and layouts work.
+---
 
 
