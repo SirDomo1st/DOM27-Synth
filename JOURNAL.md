@@ -188,4 +188,11 @@ Time spent: 1.5h
 Now that all my pannels are complete, I now need to go back on my old work and optimise it to use less components to save money, I need to label the value of each component to make soldering much easier and I will also need to verify with friend and on forums that my schematics and layouts work.
 ---
 
+June 4th: Labeling everything
+I started by going back onto my first module, the VCO.
+I went through and copied the values from the schematic onto the corresponding parts
+I also redid the copper as I notices some issues, and labeld other parts more clearly
+![image](https://github.com/user-attachments/assets/17143ab4-50b9-4f06-a48b-001e742754a7)
+![image](https://github.com/user-attachments/assets/0b74a0ac-cdbf-4b2f-bb67-427607a43b9b)
+
 
