@@ -194,5 +194,8 @@ I went through and copied the values from the schematic onto the corresponding p
 I also redid the copper as I notices some issues, and labeld other parts more clearly
 ![image](https://github.com/user-attachments/assets/17143ab4-50b9-4f06-a48b-001e742754a7)
 ![image](https://github.com/user-attachments/assets/0b74a0ac-cdbf-4b2f-bb67-427607a43b9b)
+Time spent: 1h
+
+---
 
 
