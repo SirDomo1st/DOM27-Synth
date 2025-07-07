@@ -204,6 +204,9 @@ I did the same thing as before but on the other 2 modueles
 ![image](https://github.com/user-attachments/assets/37be5d73-dde8-478d-9ac8-0fa493a5fe8e)
 ![image](https://github.com/user-attachments/assets/07191062-0c23-4746-a653-a4278b05967b)
 
+I also had to re-do some of my CAD
+![image](https://github.com/user-attachments/assets/4ba924ee-427e-4dc1-824c-7d7461ea4404)
+
 Time spent: 1h
 
 ---
