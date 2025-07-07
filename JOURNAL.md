@@ -192,8 +192,18 @@ June 4th: Labeling everything
 I started by going back onto my first module, the VCO.
 I went through and copied the values from the schematic onto the corresponding parts
 I also redid the copper as I notices some issues, and labeld other parts more clearly
+I also did this for the VCO.
 ![image](https://github.com/user-attachments/assets/17143ab4-50b9-4f06-a48b-001e742754a7)
 ![image](https://github.com/user-attachments/assets/0b74a0ac-cdbf-4b2f-bb67-427607a43b9b)
+Time spent: 1h
+
+---
+
+June 7th: Labeling everything continued
+I did the same thing as before but on the other 2 modueles
+![image](https://github.com/user-attachments/assets/37be5d73-dde8-478d-9ac8-0fa493a5fe8e)
+![image](https://github.com/user-attachments/assets/07191062-0c23-4746-a653-a4278b05967b)
+
 Time spent: 1h
 
 ---
