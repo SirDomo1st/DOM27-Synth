@@ -20,86 +20,67 @@ typically a very expensive hobby to get into.
 ![image](https://github.com/user-attachments/assets/0b74a0ac-cdbf-4b2f-bb67-427607a43b9b)
 
 # D.O.M 27 Synth Bill of Materials
+# Synthesizer Bill of Materials
 
-| Footprint | Reference | Qty | Value | Source |
-|-----------|-----------|-----|-------|--------|
-| Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm | C1,C4 | 2 | 1n | DS-20 VCF |
-| Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm | C5 | 1 | 470n | DS-20 VCF |
-| Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm | C6 | 1 | 4.7n | DS-20 VCF |
-| Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm | C8,C9,C10,C11 | 4 | 100n | DS-20 VCF |
-| Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm | C2 | 1 | 2.2nF | DOMSynth |
-| Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm | C3 | 1 | 1µF | DOMSynth |
-| Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm | C1,C2 | 2 | 47n | Dom LFO |
-| Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm | C1,C4 | 2 | C | Dom VCA |
-| Capacitor_THT:CP_Radial_D6.3mm_P2.50mm | C7,C12 | 2 | 10u | DS-20 VCF |
-| Capacitor_THT:CP_Radial_D5.0mm_P2.50mm | C2,C3 | 2 | C_Polarized | Dom VCA |
-| LED_THT:LED_D5.0mm | D1,D3 | 2 | LED | DS-20 VCF |
-| Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal | D2 | 1 | 1N4148 | DOMSynth |
-| Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal | D1,D2,D3,D4 | 4 | 1N4148 | Dom LFO |
-| Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles | J7,J8,J9,J10 | 4 | AudioPlug3 | DS-20 VCF |
-| Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles | J1 | 1 | CV In | DOMSynth |
-| Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles | J2 | 1 | FM In | DOMSynth |
-| Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles | J3 | 1 | Saw Out | DOMSynth |
-| Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles | J4 | 1 | Pulse Out | DOMSynth |
-| Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles | J5 | 1 | PMW In | DOMSynth |
-| Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles | J1,J2,J7,J8 | 4 | AudioPlug3 | Dom LFO |
-| Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles | J1 | 1 | CV2 in | Dom VCA |
-| Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles | J2 | 1 | Audio 2 in | Dom VCA |
-| Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles | J3,J4,J5,J6,J9,J14 | 6 | AudioPlug3 | Dom VCA |
-| Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles | J7 | 1 | cv in | Dom VCA |
-| Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles | J8 | 1 | audio in | Dom VCA |
-| Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical | J12 | 1 | Conn_02x08_Odd_Even | DS-20 VCF |
-| Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical | J6 | 1 | Conn_02x08_Top_Bottom | DOMSynth |
-| Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical | J6 | 1 | Conn_02x08_Top_Bottom | Dom LFO |
-| Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical | J11 | 1 | Conn_02x08_Odd_Even | Dom VCA |
-| Package_TO_SOT_THT:TO-92_Inline | Q2,Q4 | 2 | BC557 | DS-20 VCF |
-| Package_TO_SOT_THT:TO-92_Inline | Q1 | 1 | BC548 | DOMSynth |
-| Package_TO_SOT_THT:TO-92_Inline | Q3 | 1 | BC558 | DOMSynth |
-| Package_TO_SOT_THT:TO-92_Inline | Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9 | 9 | BC548 | Dom VCA |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R1,R2,R28,R29,R32,R36 | 6 | 10k | DS-20 VCF |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R19,R20,R23,R24,R37,R38 | 6 | 100k | DS-20 VCF |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R25,R35,R41 | 3 | 4.7k | DS-20 VCF |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R26,R27,R30,R31 | 4 | 220 | DS-20 VCF |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R33 | 1 | 1k | DS-20 VCF |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R34 | 1 | 47k | DS-20 VCF |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R39 | 1 | 220k | DS-20 VCF |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R40 | 1 | 1.5k | DS-20 VCF |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R42 | 1 | 470k | DS-20 VCF |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R1,R2,R6,R8,R12,R14,R22 | 7 | 100k | DOMSynth |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R3,R5,R7,R9 | 4 | 10k | DOMSynth |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R4,R11 | 2 | 1M | DOMSynth |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R10 | 1 | 1k5 | DOMSynth |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R13,R17 | 2 | 68k | DOMSynth |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R15 | 1 | 33k | DOMSynth |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R16,R18 | 2 | 1k | DOMSynth |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R21 | 1 | 14k | DOMSynth |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R1,R19 | 2 | 150k | Dom LFO |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R2,R20 | 2 | 2.2k | Dom LFO |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R3,R7,R8,R23,R27,R28 | 6 | 1k | Dom LFO |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R4,R24 | 2 | 100k | Dom LFO |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R5,R25 | 2 | 4.7k | Dom LFO |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R6,R26 | 2 | 10k | Dom LFO |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R1,R2,R14,R15,R17,R18,R19,R20,R34,R35,R47,R48,R66,R67,R68,R70 | 16 | 100k | Dom VCA |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R3,R21,R27 | 3 | 200k | Dom VCA |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R4,R5,R9,R22,R23,R24,R25,R37,R38,R42,R71 | 11 | 10k | Dom VCA |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R6,R13,R16,R28,R29,R36,R39,R46,R49,R50,R51,R52 | 12 | 1k | Dom VCA |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R7,R10,R11,R12,R30,R31,R32,R33,R40,R43,R44,R45 | 12 | 15k | Dom VCA |
-| Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | R8,R26,R41 | 3 | 33k | Dom VCA |
-| Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical | RV7,RV8,RV9,RV10 | 4 | 100k | DS-20 VCF |
-| Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical | RV11 | 1 | 10k | DS-20 VCF |
-| Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical | RV1 | 1 | 250k | DOMSynth |
-| Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical | RV2,RV3,RV5 | 3 | 100k | DOMSynth |
-| Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical | RV4 | 1 | 1M | DOMSynth |
-| Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical | RV1,RV7 | 2 | 100k | Dom LFO |
-| Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical | RV2,RV8 | 2 | 500k | Dom LFO |
-| Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical | RV1,RV4,RV7,RV13 | 4 | 100k | Dom VCA |
-| Potentiometer_THT:Potentiometer_Bourns_3296P_Horizontal | RV2,RV5,RV8 | 3 | 10k | Dom VCA |
-| Potentiometer_THT:Potentiometer_Bourns_3296P_Horizontal | RV3,RV6,RV9 | 3 | 5k | Dom VCA |
-| MusicThingModular:BOURNS_3362P_TRIMMER | RV12 | 1 | 1k | DS-20 VCF |
-| MusicThingModular:BOURNS_3362P_TRIMMER | RV6 | 1 | 1k | DOMSynth |
-| Package_DIP:DIP-8_W7.62mm | U1,U2,U3,U4,U5,U6 | 6 | TL072 | DS-20 VCF |
-| Package_TO_SOT_SMD:SOT-23-5 | U7,U8 | 2 | LM13700 | DS-20 VCF |
-| Package_DIP:DIP-14_W7.62mm | U1,U4,U5,U6 | 4 | TL074 | DOMSynth |
-| Package_DIP:DIP-14_W7.62mm | U3 | 1 | 74HC14 | DOMSynth |
-| Package_DIP:DIP-14_W7.62mm | U1,U2,U3,U4 | 4 | TL074 | Dom LFO |
-| Package_DIP:DIP-8_W7.62mm | U1,U2,U3,U5 | 4 | TL072 | Dom VCA |
+| Value | Qty | Footprint | Source | Price | Where from |
+|-------|-----|-----------|--------|-------|------------|
+| 1.5k | 1 | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | DS-20 VCF | 0.12 | Tayda |
+| 100k | 44 | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | DOMSynth, DS-20 VCF, Dom LFO, Dom VCA | 1.25 | Tayda |
+| 100n | 4 | Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm | DS-20 VCF | 0.4 | Tayda |
+| 10k | 27 | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | DOMSynth, DS-20 VCF, Dom LFO, Dom VCA | 2.7 | Tayda |
+| 10u | 4 | Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm | DS-20 VCF, Dom VCA | 0.15 | Tayda |
+| 14k | 1 | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | DOMSynth | ---- | |
+| 150k | 2 | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | Dom LFO | 0.25 | Tayda |
+| 15k | 13 | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | Dom VCA | 0.3 | Tayda |
+| 1M | 3 | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | DOMSynth | 0.15 | Tayda |
+| 1N4148 | 5 | Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal | DOMSynth, Dom LFO | 0.05 | Tayda |
+| 1k | 23 | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | DOMSynth, DS-20 VCF, Dom LFO, Dom VCA | 0.45 | Tayda |
+| 1k5 | 1 | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | DOMSynth | 0.15 | Tayda |
+| 1n | 2 | Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm | DS-20 VCF | 0.9 | Tayda |
+| 1µF | 1 | Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm | DOMSynth | 0.12 | Tayda |
+| 2.2k | 2 | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | Dom LFO | 0.15 | Tayda |
+| 2.2nF | 1 | Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm | DOMSynth | 0.06 | Tayda |
+| 200k | 3 | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | Dom VCA | 0.12 | Tayda |
+| 220 | 4 | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | DS-20 VCF | 0.8 | Tayda |
+| 220k | 1 | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | DS-20 VCF | 0.15 | Tayda |
+| 250k | 1 | Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical | DOMSynth | 1.29 | Tayda |
+| 33k | 4 | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | DOMSynth, Dom VCA | 0.15 | Tayda |
+| 4.7k | 5 | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | DS-20 VCF, Dom LFO | 0.15 | Tayda |
+| 4.7n | 1 | Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm | DS-20 VCF | 0.07 | Tayda |
+| 470k | 1 | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | DS-20 VCF | 0.15 | Tayda |
+| 470n | 1 | Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm | DS-20 VCF | 0.08 | Tayda |
+| 47k | 1 | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | DS-20 VCF | 0.15 | Tayda |
+| 47n | 2 | Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm | Dom LFO | 0.13 | Tayda |
+| 500k | 2 | Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical | Dom LFO | 1.34 | Tayda |
+| 5k | 3 | Potentiometer_THT:Potentiometer_Bourns_3296P_Horizontal | Dom VCA | 0.18 | Tayda |
+| 68k | 2 | Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal | DOMSynth | 0.15 | Tayda |
+| 74HC14 | 1 | Package_DIP:DIP-14_W7.62mm | DOMSynth | 0.66 | Tayda |
+| Audio Jack | 23 | Connector_Audio:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles | DOMSynth, DS-20 VCF, Dom LFO, Dom VCA | 8.97 | Tayda |
+| BC548 | 10 | Package_TO_SOT_THT:TO-92_Inline | DOMSynth, Dom VCA | 0.4 | Tayda |
+| BC557 | 2 | Package_TO_SOT_THT:TO-92_Inline | DS-20 VCF | 0.06 | Tayda |
+| BC558 | 1 | Package_TO_SOT_THT:TO-92_Inline | DOMSynth | 0.04 | Tayda |
+| 10u Polarised | 2 | Capacitor_THT:CP_Radial_D5.0mm_P2.50mm | Dom VCA | 0.06 | Tayda |
+| Conn_02x08_Odd_Even | 2 | Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical | DS-20 VCF, Dom VCA | --- | |
+| Conn_02x08_Top_Bottom | 2 | Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical | DOMSynth, Dom LFO | --- | |
+| LED | 2 | LED_THT:LED_D5.0mm | DS-20 VCF | 0.048 | Tayda |
+| LM13700 | 2 | Package_TO_SOT_SMD:SOT-23-5 | DS-20 VCF | 4.7 | Tayda |
+| TL072 | 10 | Package_DIP:DIP-8_W7.62mm | DS-20 VCF, Dom VCA | 14.9 | Tayda |
+| TL074 | 8 | Package_DIP:DIP-14_W7.62mm | DOMSynth, Dom LFO | 4.72 | Tayda |
+| 100k | 13 | Pot | | 8.71 | Tayda |
+| 10k | 1 | Pot | | 0.67 | Tayda |
+| 1M | 1 | Pot | | 0.67 | Tayda |
+| 1k | 2 | MusicThingModular:BOURNS_3362P_TRIMMER | | 0.12 | Tayda |
+| 10k | 3 | Potentiometer_THT:Potentiometer_Bourns_3296P_Horizontal | | 0.18 | Tayda |
+| | | | | | Tayda |
+| Power Male | 4 | | | 1.2 | |
+| Power Female | 4 | | | 0.52 | |
+| Tayda Shipping | 1 | | | 9.25 | Tayda |
+| | | | | | |
+| PSU | 1 | Behringer System 55 CP1A Power Supply Module | | 62.56 | Gear4Music |
+| G4M Shipping | | | | 2.71 | |
+| | | | | | |
+| PCB 110x60 | 2 | | | 13 | JLB PCB |
+| PCB 110x40 | 2 | | | 11.4 | JLB PCB |
+| JLB Shipping | 1 | | | 3.12 | |
+| | | | | | |
+| **Total Price** | | | | **$160.77** |
