@@ -5,6 +5,8 @@ the functionality of my synth.
 I made this my project is due to my passion for synth music and a want to learn to electronics. This was perfect as I could learn some basics of anaglouge electronics while also creating a useable, musical instrument. It was also perfect because modular synthesis is 
 typically a very expensive hobby to get into.
 
+### Total time spent on project: ~23 hours
+
 ## All 4 modules together 
 ![image](https://github.com/user-attachments/assets/85197b87-c91b-4e42-b6df-25c2b775514b)
 ## VCA pcb
