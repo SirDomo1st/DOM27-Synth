@@ -20,7 +20,7 @@ typically a very expensive hobby to get into.
 ![image](https://github.com/user-attachments/assets/0b74a0ac-cdbf-4b2f-bb67-427607a43b9b)
 
 
-Synth pannel source files:[Uploading SynthPannels.step…]()
+Synth pannel source files: https://www.mediafire.com/folder/19pjphztzjj5q/Synth+Pannel
 
 
 # D.O.M 27 Synth Bill of Materials
