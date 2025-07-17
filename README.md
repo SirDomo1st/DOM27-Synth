@@ -1,6 +1,7 @@
 # D.O.M-27 Synth
 
-My project is a fully DIY & anaglouge modular synth based on the eurorack system. It features 4 fundemental components of synthesis - a VCO, LFO, VCF & VCA. Because it is a modular synth & based on eurorack, this means that I can create more modules when I please to expand the functionality of my synth. There is no bottom case on the pannels as they are intended to me rack mounted on a system called eurorack. [Something like this]<img width="1379" height="920" alt="image" src="https://github.com/user-attachments/assets/b67b8a45-bae6-4511-9827-a0f2a85f9f13" />
+My project is a fully DIY & anaglouge modular synth based on the eurorack system. It features 4 fundemental components of synthesis - a VCO, LFO, VCF & VCA. Because it is a modular synth & based on eurorack, this means that I can create more modules when I please to expand the functionality of my synth. There is no bottom case on the pannels as they are intended to me rack mounted on a system called eurorack. [Something like this]<img width="1379" height="920" alt="image" src="https://github.com/user-attachments/assets/3607d4c3-96d6-41f4-aae6-fea500127c90" />
+
 
 
 
