@@ -19,6 +19,12 @@ typically a very expensive hobby to get into.
 ## VCF pcb
 ![image](https://github.com/user-attachments/assets/0b74a0ac-cdbf-4b2f-bb67-427607a43b9b)
 
+## Project Schematics
+<img width="918" height="669" alt="image" src="https://github.com/user-attachments/assets/ba17feed-730e-4370-b5f2-b80ddbac7d50" />
+## VCA Schem
+
+
+
 
 Synth pannel source files: https://www.mediafire.com/folder/19pjphztzjj5q/Synth+Pannel
 
