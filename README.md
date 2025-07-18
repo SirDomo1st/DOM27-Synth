@@ -27,7 +27,7 @@ typically a very expensive hobby to get into.
 
 
 
-Synth pannel source files: https://www.mediafire.com/folder/19pjphztzjj5q/Synth+Pannel
+Synth pannel CAD source files: https://www.mediafire.com/folder/19pjphztzjj5q/Synth+Pannel
 
 
 # D.O.M 27 Synth Bill of Materials
