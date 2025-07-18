@@ -21,8 +21,9 @@ typically a very expensive hobby to get into.
 
 ## Project Schematics
 <img width="918" height="669" alt="image" src="https://github.com/user-attachments/assets/ba17feed-730e-4370-b5f2-b80ddbac7d50" />
-## VCA Schem
-
+<img width="752" height="528" alt="image" src="https://github.com/user-attachments/assets/0c8d1d64-50b9-4630-9782-641663d755e9" />
+<img width="1099" height="626" alt="image" src="https://github.com/user-attachments/assets/b46f61b7-d43c-44f9-b9c3-3997d4091052" />
+<img width="882" height="632" alt="image" src="https://github.com/user-attachments/assets/03fcc8dc-e98b-4c55-a514-d4a28b9e28a0" />
 
 
 
