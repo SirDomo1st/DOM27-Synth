@@ -29,6 +29,8 @@ typically a very expensive hobby to get into.
 
 Synth pannel CAD source files: https://www.mediafire.com/folder/19pjphztzjj5q/Synth+Pannel
 
+A psu is included in my BOM because a eurorack system has specific power requiremnets. The psu sends +12v, -12v, 5v & GND to each individual module. It can also carry CV information. The psu also has a daisy chain ribbon as each module is powered individually. This is why they are fairly expensive, but also why one is required.
+
 
 # D.O.M 27 Synth Bill of Materials
 # Synthesizer Bill of Materials
